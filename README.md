@@ -238,6 +238,12 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 项目地址：https://github.com/guanchao/ScrollerCalendar  
 效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
 
+1. base-adapter-helper  
+对Adapter的简化封装
+项目地址：https://github.com/JoanZapata/base-adapter-helper 
+源码解析：https://github.com/hongyangAndroid/base-adapter-helper/blob/master/imgs/base-adapter-helper.md
+
+
 #### 二、ActionBar  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
